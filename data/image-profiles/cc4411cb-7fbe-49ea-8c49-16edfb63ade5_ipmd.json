@@ -1,7 +1,12 @@
 {
   "id": "cc4411cb-7fbe-49ea-8c49-16edfb63ade5",
+  "rev": "1-e8c4f05318ad89b301e9441c65c4e026",
   "name": "WebAppManifest",
   "classification": "image-profile",
+  "creatorId": "870a3cbb-2d36-4cff-ba6f-46de398aca5f",
+  "created": "2018-03-08T14:33:11.715Z",
+  "lastModifierId": "870a3cbb-2d36-4cff-ba6f-46de398aca5f",
+  "lastModified": "2018-03-08T14:33:11.715Z",
   "dimensions": [
     {
       "label": "Launcher Small",

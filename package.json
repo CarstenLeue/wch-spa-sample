@@ -66,6 +66,7 @@
     "gen:normalize": "ibm-wch-sdk-cli normalize json",
     "gen:pagetype": "ibm-wch-sdk-cli create pagetype --src ./src/app/ --data ./data --scss --type",
     "gen:pull": "ibm-wch-sdk-cli application pull --data ./data/",
+    "gen:pull-temp": "ibm-wch-sdk-cli application pull --data ./tmp/",
     "lint": "ng lint --type-check",
     "ng": "ng",
     "package:addBaseUrl": "ibm-wch-sdk-cli add base --relative",

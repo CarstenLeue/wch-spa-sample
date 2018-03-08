@@ -3,11 +3,12 @@
   "locationY": 0,
   "height": 144,
   "locationX": 0,
-  "rev": "1-7142d86816a058983706b897dbf26771",
+  "rev": "1-d206d4cbe8095b15986ee7790b7e6f96",
   "id": "48861488-8531-4d1f-be77-3347ec2b45f8",
   "classification": "rendition",
   "asset": {
     "mediaType": "image/png",
+    "altText": "",
     "height": 192,
     "fileName": "bee.png",
     "id": "cbaecf7e-86a4-454c-be3e-de3802def621",
@@ -16,5 +17,5 @@
     "width": 192
   },
   "width": 144,
-  "created": "2017-09-22T10:42:43.336Z"
+  "created": "2018-03-08T14:33:25.382Z"
 }

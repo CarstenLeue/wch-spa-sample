@@ -1,14 +1,11 @@
 {
-  "mediaType": "image/png",
+  "rev": "5-f9451780490783463548a4a17b9c65b9",
+  "id": "cbaecf7e-86a4-454c-be3e-de3802def621",
   "name": "bee.png",
-  "path": "/dxdam/cb/cbaecf7e-86a4-454c-be3e-de3802def621/bee.png",
-  "digest": "7DI6yhxdVuKsbpiu7MfkOg==",
-  "usageRights": {
-    "categories": []
-  },
-  "assetType": "image",
-  "lastModified": "2017-09-22T10:43:13.600Z",
+  "resource": "ffd75e36af7e2402fd893293de1e7beb",
   "description": "",
+  "altText": "",
+  "path": "/dxdam/cb/cbaecf7e-86a4-454c-be3e-de3802def621/bee.png",
   "tags": {
     "values": [
       "classification:protective covering",
@@ -23,7 +20,6 @@
       "classification:emerald color"
     ],
     "declined": [],
-    "analysis": "complete",
     "suggested": [
       "classification:spectrum of colors",
       "classification:palette",
@@ -33,16 +29,31 @@
       "classification:primary color for light",
       "classification:circle",
       "classification:figure",
+      "classification:bowling equipment",
       "classification:bottle green color",
       "classification:emerald color"
-    ]
+    ],
+    "analysis": "complete"
   },
-  "isManaged": true,
-  "altText": "",
   "categoryIds": [],
+  "usageRights": {
+    "categories": []
+  },
+  "status": "ready",
+  "assetType": "image",
   "fileName": "bee.png",
-  "creatorId": "52ced8d7-9e49-484b-8bae-91d1a9b38fcc",
-  "rev": "3-dc495dd00e1336251743a66d1eb39361",
+  "mediaType": "image/png",
+  "fileSize": 3761,
+  "digest": "7DI6yhxdVuKsbpiu7MfkOg==",
+  "metadata": {
+    "width": 192,
+    "height": 192
+  },
+  "lastModifierId": "870a3cbb-2d36-4cff-ba6f-46de398aca5f",
+  "lastModified": "2018-03-08T14:40:24.582Z",
+  "created": "2018-03-08T14:33:16.191Z",
+  "classification": "asset",
+  "creatorId": "870a3cbb-2d36-4cff-ba6f-46de398aca5f",
   "cognitive": {
     "classifications": [
       "spectrum of colors",
@@ -53,33 +64,24 @@
       "primary color for light",
       "circle",
       "figure",
+      "bowling equipment",
       "bottle green color",
       "emerald color"
     ],
     "faces": [],
     "colors": {
-      "vibrant": "#e58224",
-      "darkVibrant": "#1a7a3b",
-      "darkMuted": "#1b3520",
-      "lightVibrant": "#e8445d"
+      "vibrant": "#eb841c",
+      "darkVibrant": "#744414",
+      "darkMuted": "#643630",
+      "lightVibrant": "#ed445e"
     },
     "status": "complete"
   },
-  "id": "cbaecf7e-86a4-454c-be3e-de3802def621",
-  "resource": "ffd75e36af7e2402fd893293de1e7beb",
-  "fileSize": 3761,
-  "status": "ready",
-  "lastModifierId": "52ced8d7-9e49-484b-8bae-91d1a9b38fcc",
   "renditions": {
     "default": {
       "id": "r=ffd75e36af7e2402fd893293de1e7beb&a=cbaecf7e-86a4-454c-be3e-de3802def621",
       "source": "/authoring/v1/resources/ffd75e36af7e2402fd893293de1e7beb"
     }
   },
-  "metadata": {
-    "width": 192,
-    "height": 192
-  },
-  "classification": "asset",
-  "created": "2017-09-22T10:42:42.284Z"
+  "isManaged": true
 }

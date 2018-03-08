@@ -1,6 +1,6 @@
 {
   "id": "3900cd47-0f9a-45a9-892f-3f9a3e42c751",
-  "rev": "10-d038b0d9a0b3fb7029fd72030cfb373a",
+  "rev": "3-7320a674874e1f70ed96b43873ec60a8",
   "name": "WebAppManifest",
   "classification": "content-type",
   "kind": [
@@ -11,10 +11,6 @@
     "source": "imageElementOrType"
   },
   "description": "",
-  "creatorId": "b0c7d815-51be-497e-98a2-e9230e137111",
-  "created": "2017-09-22T07:44:17.711Z",
-  "lastModifierId": "b0c7d815-51be-497e-98a2-e9230e137111",
-  "lastModified": "2017-09-23T13:07:46.544Z",
   "status": "ready",
   "tags": [],
   "elements": [
