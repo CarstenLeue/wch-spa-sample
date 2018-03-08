@@ -17,3 +17,6 @@ e2e/**/*.js.map
 wchtools*.log
 *.$gen
 yarn-error.log
+yarn.lock
+package-lock.json
+
