@@ -20,7 +20,7 @@
     "ibm-wch-sdk-ng": ">= 5.0.0",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19",
-    "wch-spa-sample-components": "^0.0.4"
+    "wch-spa-sample-components": "^0.0.0"
   },
   "devDependencies": {
     "@angular/cli": "~1.7.0",
