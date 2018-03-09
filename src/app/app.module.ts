@@ -5,7 +5,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-
+import { ComponentsModule } from 'wch-spa-sample-components';
 
 @NgModule({
   declarations: [
@@ -13,6 +13,7 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    ComponentsModule, 
     WchNgModule.forRoot(environment)],
   providers: [],
   entryComponents: [],
